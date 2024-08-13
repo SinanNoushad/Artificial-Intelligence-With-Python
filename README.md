@@ -41,7 +41,7 @@
 
 ## Machine Learning
 
-###Supervised Learning
+### Supervised Learning
 - [ ] Linear regression
 - [ ] Logistic Regression
 - [ ] SVM
@@ -50,15 +50,15 @@
 - [ ] K means clusteringg
 - [ ] Bagging vs Boostingg
 
-##Data Visualization
+## Data Visualization
 - [ ] Visualizations in python
 
-##Deep Learning
+## Deep Learning
 - [ ] Deep Learning
 - [ ] Natural Language Processing Part 1
 - [ ] Natural Language Processing Part 2
 
-##Generative Al and Prompt Engineering
+## Generative Al and Prompt Engineering
 - [ ] GAN 1
 - [ ] GAN Implementation
 - [ ] Prompt Engineering
