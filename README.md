@@ -7,8 +7,8 @@
 - [x] map, reduce, filter
 
 ### Numpy
-- [ ] Numpy Part 1
-- [ ] Numpy Part 2
+- [x] Numpy Part 1
+- [x] Numpy Part 2
 
 ### Pandas
 - [ ] Pandas part 1
